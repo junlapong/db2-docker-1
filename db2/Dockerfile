@@ -5,7 +5,7 @@ RUN set -x && yum install java -y && yum clean all
 
 WORKDIR /database
 
-COPY assets/createdb.sh /database/scripts/createdb.sh
+# COPY assets/createdb.sh /database/scripts/createdb.sh
 # RUN su - db2inst1 -c /database/scripts/createdb.sh
 	
 # CMD ["db2start"]

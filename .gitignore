@@ -7,3 +7,5 @@ go/Dockerfile.alpine
 java/
 was/
 db2/assets/
+ntx64_odbc_cli.zip
+

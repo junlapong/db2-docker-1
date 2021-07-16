@@ -1,5 +1,5 @@
 TAG=buster
-DB2DSN='HOSTNAME=localhost;DATABASE=testdb;PORT=50000;UID=db2inst1;PWD=pa55w0rd'
+DB2DSN='HOSTNAME=localhost;DATABASE=testdb;PORT=50001;UID=db2inst1;PWD=pa55w0rd'
 
 all: buster
 
