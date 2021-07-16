@@ -1,0 +1,9 @@
+database/
+clidriver/
+go_ibm_db/
+*.gz
+go/bin/
+go/Dockerfile.alpine
+java/
+was/
+db2/assets/
